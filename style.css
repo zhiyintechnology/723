@@ -28,15 +28,7 @@ h1, h2, span {
     transform-style: preserve-3d;
     font-family: "Pacifico",cursive;
   }
-
-  h1 {
-    position: fixed;
-    text-align: center;
-    width: 100%;
-    top: 120px;
-    font-size: 90px;
-    background: -webkit-linear-gradient(0deg, #ceadfc 0%, #a3bbfb 100%);
-
+  
     -webkit-text-fill-color: transparent;
     font-family: 'Concert One', cursive;
     font-weight: 400;
